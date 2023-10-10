@@ -1,2 +1,5 @@
+# 忽略 .vscode 目錄
+.vscode
+
 # Auto detect text files and perform LF normalization
 * text=auto
